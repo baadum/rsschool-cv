@@ -1,11 +1,14 @@
 # Maryna Kushnir
+![photo](http://files.turbohiring.co/00/00/00/00/00/0e/e6/65/976485.jpeg)
 ***
 ## Contacts
 E-mail: marisha.kusha@gmail.com  
+Discord: Marina (@baadum)  
 Linkedin: [Marina Kushnir](http://linkedin.com/in/marina-kushnir-frontend "Marina Kushnir")
 
 ## About me
-Now I am studying French, and trying to improve my skills in Front End development
+Now I am studying French, and trying to improve my skills in Front End development  
+One of project - [Hillel task](https://github.com/baadum/lesson6.git)
 
 ## Skills
 Work with:   
@@ -18,17 +21,15 @@ Work with:
 
 ## Code examples
 ```js
-sortNoteABC: function() { 
- var sortAbc = this.notes.sort(function(a,b){
-   var textA=a.text.toLowerCase(),
-       textB=b.text.toLowerCase()
-   if (textA < textB)
-       return -1;
-   if (textA > textB)
-       return 1;
-   return 0;
-  });
- return sortAbc;
+function solution(number){
+  var sum = 0;
+  
+  for(var i = 1;i< number; i++){
+    if(i % 3 == 0 || i % 5 == 0){
+      sum += i
+    }
+  }
+  return sum;
 }
 ```
 
