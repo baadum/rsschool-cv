@@ -1,5 +1,6 @@
 # Maryna Kushnir
-![photo](http://files.turbohiring.co/00/00/00/00/00/0e/e6/65/976485.jpeg)
+![photo](http://files.turbohiring.co/00/00/00/00/00/0e/e6/65/976485.jpeg)  
+
 ***
 ## Contacts
 E-mail: marisha.kusha@gmail.com  
